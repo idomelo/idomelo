@@ -1,12 +1,8 @@
-## Olá, Sou o Ido! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width=40>
-
-- 🌱 Estudante de Desenvolvimento Web
-- 📖 Aprendendo JavaScript e Python
-
+## Oi, Sou o Ido! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width=40>
 <div align="center">
   <a href="https://github.com/idomelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=idomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
