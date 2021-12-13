@@ -12,7 +12,7 @@
 
 ## Analytics ⚙️
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/idomelo">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&hide=HCL"/>
