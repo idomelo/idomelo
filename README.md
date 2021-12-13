@@ -12,12 +12,12 @@
 
 ### Analytics ⚙️
 
-<p align="center">
+<div align="center" display="inline">
   <a href="https://github.com/idomelo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&hide=HCL"/>
   </a>
-</p>
+</div>
 
 ### Let's connect? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
   
