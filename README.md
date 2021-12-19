@@ -1,8 +1,10 @@
 # Hello World! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="40">
 
-#### I'm a 🇧🇷 Software Developer Student 💻
+#### -> I'm a 🇧🇷 Software Developer Student 💻
+#### -> Currently focused on learning Javascript
 
-### Languages & Tools 🛠
+
+## Languages & Tools 🛠
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
@@ -10,16 +12,16 @@
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/PyCharm-05122A?&style=plastic&logo=PyCharm&logoColor=white)&nbsp;
 
-### Analytics ⚙️
+## Analytics ⚙️
 
 <div align="left">
   <a href="https://github.com/idomelo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&hide=HCL"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true&theme=highcontrast"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=highcontrast&hide=HCL"/>
   </a>
 </div>
 
-### Let's connect? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
+## Let's connect? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
   
 <div align="left">
   <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"></a>
