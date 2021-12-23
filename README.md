@@ -6,11 +6,14 @@
 
 ## Languages & Tools 🛠
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)&nbsp;
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Pycharm](https://img.shields.io/badge/PyCharm-05122A?&style=plastic&logo=PyCharm&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/PyCharm-323330.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
+
+
 
 ## Analytics ⚙️
 
@@ -24,7 +27,7 @@
 ## Let's connect? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
   
 <div align="left">
-  <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/idomelo"><img src="https://img.shields.io/badge/idomelo-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/idomelo"><img src="https://img.shields.io/badge/idomelo-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <!--   ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg) -->
 </div>
