@@ -1,7 +1,7 @@
 # Hello World! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="40">
 
-##### -> Sou um Software Developer em constante aprendizado
-##### -> Atualmente focado em aprender React
+##### -> Fullstack Developer em formação
+##### -> Atualmente aprendendo React
 ##### -> Fique à vontade para me procurar e falar sobre qualquer assunto.
 
 ## Linguagens e Ferramentas 🛠
