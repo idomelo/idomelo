@@ -1,7 +1,7 @@
 # Hello World! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="40">
 
 -> Fullstack Developer em formação\
--> Atualmente aprendendo React\
+-> Atualmente estudando React\
 -> Fique à vontade para me procurar e falar sobre qualquer assunto.
 
 ## Linguagens e Ferramentas 🛠
