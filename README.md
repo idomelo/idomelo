@@ -29,8 +29,10 @@
 </p>
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=tokyonight&hide=HCL"/>
-  <img height="150em" src="astronot.gif"/>
+  <a href="#!">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=tokyonight&hide=HCL"/>
+    <img height="150em" src="astronot.gif"/>
+   </a>
 </p>
 
 ## Vamos nos conectar? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
@@ -40,5 +42,5 @@
   <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/idomelo"><img src="https://img.shields.io/badge/idomelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 
-<!--   ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg)
 </div>
