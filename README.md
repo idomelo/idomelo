@@ -1,31 +1,37 @@
 # Hello World! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="40">
 
--> Fullstack Developer em formação\
--> Atualmente estudando React\
--> Fique à vontade para me procurar e falar sobre qualquer assunto.
+📚 Fullstack Developer em formação\
+🌱 Atualmente estudando: React, NextJS\
+💬 Fique à vontade para me procurar e falar sobre qualquer assunto.
 
 ## Linguagens e Ferramentas 🛠
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MAterial UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![MAterial UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 
 ## Análise ⚙️
 
-<div align="left">
-  <a href="https://github.com/idomelo">
+<p align="left">
+  <a href="#!">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=tokyonight&hide=HCL"/>
   </a>
-</div>
+</p>
+
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=tokyonight&hide=HCL"/>
+  <img height="150em" src="astronot.gif"/>
+</p>
 
 ## Vamos nos conectar? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
 
@@ -36,5 +42,3 @@
 
 <!--   ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg) -->
 </div>
-
-
