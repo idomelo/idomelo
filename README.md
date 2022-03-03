@@ -21,18 +21,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 
 ## Análise ⚙️
-
 <p align="left">
   <a href="#!">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=idomelo&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D"/>
+    <img height="200em" src="./animation_500_l0bdms8x.gif"/>
   </a>
 </p>
 
 <p align="left">
   <a href="#!">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=tokyonight&hide=HCL"/>
-    <img height="150em" src="astronot.gif"/>
-   </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idomelo&layout=compact&langs_count=8&theme=chartreuse-dark&hide=HCL"/>
+  </a>
 </p>
 
 ## Vamos nos conectar? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
