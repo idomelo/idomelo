@@ -21,13 +21,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 
 ## Análise ⚙️
+
 <p align="left">
   <a href="#!">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=idomelo&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D"/>
     <img height="200em" src="./man_programming.gif"/>
   </a>
 </p>
-
 <p align="left">
   <a href="#!">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=idomelo&count_private=true&show_icons=true&theme=chartreuse-dark"/>
@@ -36,7 +36,6 @@
 </p>
 
 ## Vamos nos conectar? <img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/handshake_1f91d.png width="30">
-
   
 <div align="left">
   <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
