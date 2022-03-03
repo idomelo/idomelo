@@ -24,7 +24,7 @@
 <p align="left">
   <a href="#!">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=idomelo&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D"/>
-    <img height="200em" src="./animation_500_l0bdms8x.gif"/>
+    <img height="200em" src="./man_programming.gif"/>
   </a>
 </p>
 
