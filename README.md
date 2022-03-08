@@ -41,5 +41,5 @@
   <a href = "mailto:idomelo123@gmail.com"><img src="https://img.shields.io/badge/idomelo123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/idomelo"><img src="https://img.shields.io/badge/idomelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 
-  ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/idomelo/idomelo/blob/output/github-contribution-grid-snake.svg) -->
 </div>
