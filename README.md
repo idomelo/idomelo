@@ -1,6 +1,6 @@
 # Hello World! <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="40">
 
-📚 Fullstack Developer\
+📚 Fullstack Developer Javascript\
 🌱 Atualmente estudando: React, NextJS\
 💬 Fique à vontade para me procurar e falar sobre qualquer assunto.
 
