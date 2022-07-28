@@ -1,6 +1,7 @@
 # Welcome !
 
 - Full Stack Developer Focused on **Angular** and **Spring**, seeking to develop clean and scalable code
+- See my Profile on [Gitlab](https://gitlab.com/idomelo)
 
 ## Daily Use
 
